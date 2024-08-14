@@ -1,0 +1,9 @@
+4 principais tipos primitivos ->
+
+int -> 7, -4, 0, 9875... ou seja, números inteiros
+
+float -> 4.5, 0.084, 0.02... ou seja, números com pontos flutuantes
+
+bool -> boleano (true or false)
+
+str -> string. "texto"
