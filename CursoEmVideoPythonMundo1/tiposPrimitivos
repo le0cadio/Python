@@ -7,3 +7,5 @@ float -> 4.5, 0.084, 0.02... ou seja, números com pontos flutuantes (vemos como
 bool -> boleano (true or false)
 
 str -> string. "texto"
+
+Quando juntamos uma string na outra, chamamos isso de concatenação.
