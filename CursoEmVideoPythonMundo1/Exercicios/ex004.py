@@ -1,5 +1,5 @@
-#Desafio: Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo
-#e todas as possíveis informações sobre ele.
+# Desafio: Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo
+# e todas as possíveis informações sobre ele.
 
 a = input('Digite alguma coisa : ')
 print(f'Só tem espaços? {a.isspace()}')
