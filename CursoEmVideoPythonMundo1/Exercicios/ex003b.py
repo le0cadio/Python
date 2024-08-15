@@ -9,4 +9,3 @@ print(f'É alfanumérico? {a.isalnum()}')
 print(f'Está em letras maiúsculas?{a.isupper()}')
 print(f'Está em letras minúsculas? {a.islower()}')
 print(f'Está capitalizada? {a.istitle()}')
-
