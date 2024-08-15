@@ -9,3 +9,5 @@ bool -> boleano (true or false)
 str -> string. "texto"
 
 Quando juntamos uma string na outra, chamamos isso de concatenação.
+
+Alfa númericos -> possuém números e letras.
