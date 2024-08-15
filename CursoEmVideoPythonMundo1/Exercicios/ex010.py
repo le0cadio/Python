@@ -4,4 +4,4 @@ dinheiro = float(input('Digite quanto de dinheiro você tem em R$: '))
 
 dolar = dinheiro / 5.75
 
-print(f'Seu dinheiro pode comprar : {dolar} dolar!')
+print(f'Seu dinheiro pode comprar : {dolar:.2f} dolar!')
