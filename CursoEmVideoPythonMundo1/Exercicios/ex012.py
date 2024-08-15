@@ -2,6 +2,6 @@
 
 produto = float(input('Digite o valor do seu produto: '))
 
-valor = produto - (produto * 0.05)
+valor = produto - (produto * 5 / 100)
 
-print(f'o valor do seu produto com desconto é de {valor}')
+print(f'o valor do seu produto com desconto é de {valor:.2f}')
